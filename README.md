@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **Vision4life** · Team ID `VTU-QFF-HC-0117` · Tier `Online`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#Vision4life)
+[⬆ Back to Top](#vision4life)
 
 </div>
